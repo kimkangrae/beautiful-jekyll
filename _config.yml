@@ -17,7 +17,7 @@ baseurl: ""
 title: Kangrae
 
 # Short description of your site
-description: My note
+description: Note
 
 # --- Navigation bar options --- #
 
@@ -41,26 +41,26 @@ avatar: "https://avatars2.githubusercontent.com/u/19699613?v=3&s=460"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Kangrae Kim
-  email: "kangrekim@gmail.com.com"
-  facebook: kimkangre  # eg. daattali
+  # email: "kangrekim@gmail.com.com"
+  # facebook: kimkangre  # eg. daattali
   # github: kimkangrae    # eg. daattali
-  twitter: kangrekim   # eg. daattali
+  # twitter: kangrekim   # eg. daattali
   # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   # stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
-  email: true
-  twitter: true
+  facebook: false
+  email: false
+  twitter: false
   github: false
   linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kimkangrae.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "kimkangrae.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
