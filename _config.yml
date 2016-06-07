@@ -28,7 +28,7 @@ navbar-links:
     - Redmine: "http://www.redmine.org/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://kimkangrae.github.io"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +43,7 @@ author:
   email: "kangrekim@gmail.com.com"
   facebook: kimkangre  # eg. daattali
   # github: kimkangrae    # eg. daattali
-  # twitter: kangrekim   # eg. daattali
+  twitter: kangrekim   # eg. daattali
   # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   # stackoverflow: yourlink  # eg. "3943160/daattali"
  
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "kimkangrae.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
